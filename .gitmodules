@@ -2,3 +2,8 @@
 	path = HuylenbroeckFlorent/custom-support-flhu
 	url = git@github.com:HuylenbroeckFlorent/custom-support-flhu.git
 	branch = 15.0-message_tracker
+
+[submodule "HuylenbroeckFlorent/custom-support-flhu-message-tracker"]
+	path = HuylenbroeckFlorent/custom-support-flhu-message-tracker
+	url = git@github.com:HuylenbroeckFlorent/custom-support-flhu.git
+	branch = 15.0-message_tracker
